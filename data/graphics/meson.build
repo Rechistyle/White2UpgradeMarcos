@@ -34,12 +34,14 @@ vfs_files += custom_target(
         007_[0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9].*)
           entry="${base#007_}"
           entry="${entry%.*}"
-          cp "$file" "$dst/$((10#$entry))"
+          entry="${entry#"${entry%%[!0]*}"}"; [ -z "$entry" ] && entry=0
+          cp "$file" "$dst/$entry"
           ;;
         07_[0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9].*)
           entry="${base#07_}"
           entry="${entry%.*}"
-          cp "$file" "$dst/$((10#$entry))"
+          entry="${entry#"${entry%%[!0]*}"}"; [ -z "$entry" ] && entry=0
+          cp "$file" "$dst/$entry"
           ;;
         *)
           cp "$file" "$dst/$base"
