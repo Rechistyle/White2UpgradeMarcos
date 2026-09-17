@@ -10,62 +10,62 @@ ENCOUNTER_CONTAINER_0:
   GRASS:
     SINGLES:
       Slot 0:
-        Species: SPECIES_PALPITOAD
+        Species: SPECIES_CHESPIN
         Form: 0
         Minimum Level: 54
         Maximum Level: 54
       Slot 1:
-        Species: SPECIES_KARRABLAST
+        Species: SPECIES_FENNEKIN
         Form: 0
         Minimum Level: 54
         Maximum Level: 54
       Slot 2:
-        Species: SPECIES_PALPITOAD
+        Species: SPECIES_FROAKIE
         Form: 0
         Minimum Level: 55
         Maximum Level: 55
       Slot 3:
-        Species: SPECIES_CROAGUNK
+        Species: SPECIES_BUNNELBY
         Form: 0
         Minimum Level: 55
         Maximum Level: 55
       Slot 4:
-        Species: SPECIES_STUNFISK
+        Species: SPECIES_FLETCHLING
         Form: 0
         Minimum Level: 55
         Maximum Level: 55
       Slot 5:
-        Species: SPECIES_STUNFISK
+        Species: SPECIES_LITLEO
         Form: 0
         Minimum Level: 56
         Maximum Level: 56
       Slot 6:
-        Species: SPECIES_PALPITOAD
+        Species: SPECIES_SKIDDO
         Form: 0
         Minimum Level: 56
         Maximum Level: 56
       Slot 7:
-        Species: SPECIES_CROAGUNK
+        Species: SPECIES_PANCHAM
         Form: 0
         Minimum Level: 56
         Maximum Level: 56
       Slot 8:
-        Species: SPECIES_PALPITOAD
+        Species: SPECIES_ESPURR
         Form: 0
         Minimum Level: 57
         Maximum Level: 57
       Slot 9:
-        Species: SPECIES_SHELMET
+        Species: SPECIES_HONEDGE
         Form: 0
         Minimum Level: 57
         Maximum Level: 57
       Slot 10:
-        Species: SPECIES_PALPITOAD
+        Species: SPECIES_NOIBAT
         Form: 0
         Minimum Level: 57
         Maximum Level: 57
       Slot 11:
-        Species: SPECIES_SHELMET
+        Species: SPECIES_SYLVEON
         Form: 0
         Minimum Level: 57
         Maximum Level: 57
@@ -309,62 +309,62 @@ ENCOUNTER_CONTAINER_1:
   GRASS:
     SINGLES:
       Slot 0:
-        Species: SPECIES_PALPITOAD
+        Species: SPECIES_CHESPIN
         Form: 0
         Minimum Level: 54
         Maximum Level: 54
       Slot 1:
-        Species: SPECIES_KARRABLAST
+        Species: SPECIES_FENNEKIN
         Form: 0
         Minimum Level: 54
         Maximum Level: 54
       Slot 2:
-        Species: SPECIES_PALPITOAD
+        Species: SPECIES_FROAKIE
         Form: 0
         Minimum Level: 55
         Maximum Level: 55
       Slot 3:
-        Species: SPECIES_CROAGUNK
+        Species: SPECIES_BUNNELBY
         Form: 0
         Minimum Level: 55
         Maximum Level: 55
       Slot 4:
-        Species: SPECIES_STUNFISK
+        Species: SPECIES_FLETCHLING
         Form: 0
         Minimum Level: 55
         Maximum Level: 55
       Slot 5:
-        Species: SPECIES_STUNFISK
+        Species: SPECIES_LITLEO
         Form: 0
         Minimum Level: 56
         Maximum Level: 56
       Slot 6:
-        Species: SPECIES_PALPITOAD
+        Species: SPECIES_SKIDDO
         Form: 0
         Minimum Level: 56
         Maximum Level: 56
       Slot 7:
-        Species: SPECIES_CROAGUNK
+        Species: SPECIES_PANCHAM
         Form: 0
         Minimum Level: 56
         Maximum Level: 56
       Slot 8:
-        Species: SPECIES_PALPITOAD
+        Species: SPECIES_ESPURR
         Form: 0
         Minimum Level: 57
         Maximum Level: 57
       Slot 9:
-        Species: SPECIES_SHELMET
+        Species: SPECIES_HONEDGE
         Form: 0
         Minimum Level: 57
         Maximum Level: 57
       Slot 10:
-        Species: SPECIES_PALPITOAD
+        Species: SPECIES_NOIBAT
         Form: 0
         Minimum Level: 57
         Maximum Level: 57
       Slot 11:
-        Species: SPECIES_SHELMET
+        Species: SPECIES_SYLVEON
         Form: 0
         Minimum Level: 57
         Maximum Level: 57
@@ -608,62 +608,62 @@ ENCOUNTER_CONTAINER_2:
   GRASS:
     SINGLES:
       Slot 0:
-        Species: SPECIES_PALPITOAD
+        Species: SPECIES_CHESPIN
         Form: 0
         Minimum Level: 54
         Maximum Level: 54
       Slot 1:
-        Species: SPECIES_KARRABLAST
+        Species: SPECIES_FENNEKIN
         Form: 0
         Minimum Level: 54
         Maximum Level: 54
       Slot 2:
-        Species: SPECIES_PALPITOAD
+        Species: SPECIES_FROAKIE
         Form: 0
         Minimum Level: 55
         Maximum Level: 55
       Slot 3:
-        Species: SPECIES_CROAGUNK
+        Species: SPECIES_BUNNELBY
         Form: 0
         Minimum Level: 55
         Maximum Level: 55
       Slot 4:
-        Species: SPECIES_STUNFISK
+        Species: SPECIES_FLETCHLING
         Form: 0
         Minimum Level: 55
         Maximum Level: 55
       Slot 5:
-        Species: SPECIES_STUNFISK
+        Species: SPECIES_LITLEO
         Form: 0
         Minimum Level: 56
         Maximum Level: 56
       Slot 6:
-        Species: SPECIES_PALPITOAD
+        Species: SPECIES_SKIDDO
         Form: 0
         Minimum Level: 56
         Maximum Level: 56
       Slot 7:
-        Species: SPECIES_CROAGUNK
+        Species: SPECIES_PANCHAM
         Form: 0
         Minimum Level: 56
         Maximum Level: 56
       Slot 8:
-        Species: SPECIES_PALPITOAD
+        Species: SPECIES_ESPURR
         Form: 0
         Minimum Level: 57
         Maximum Level: 57
       Slot 9:
-        Species: SPECIES_SHELMET
+        Species: SPECIES_HONEDGE
         Form: 0
         Minimum Level: 57
         Maximum Level: 57
       Slot 10:
-        Species: SPECIES_PALPITOAD
+        Species: SPECIES_NOIBAT
         Form: 0
         Minimum Level: 57
         Maximum Level: 57
       Slot 11:
-        Species: SPECIES_SHELMET
+        Species: SPECIES_SYLVEON
         Form: 0
         Minimum Level: 57
         Maximum Level: 57

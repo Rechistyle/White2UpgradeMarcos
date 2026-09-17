@@ -10,184 +10,184 @@ ENCOUNTER_CONTAINER_0:
   GRASS:
     SINGLES:
       Slot 0:
-        Species: SPECIES_BOUFFALANT
+        Species: SPECIES_CHESPIN
         Form: 0
         Minimum Level: 49
         Maximum Level: 49
       Slot 1:
-        Species: SPECIES_THROH
+        Species: SPECIES_FENNEKIN
         Form: 0
         Minimum Level: 48
         Maximum Level: 48
       Slot 2:
-        Species: SPECIES_GLIGAR
+        Species: SPECIES_FROAKIE
         Form: 0
         Minimum Level: 49
         Maximum Level: 49
       Slot 3:
-        Species: SPECIES_MIENFOO
+        Species: SPECIES_BUNNELBY
         Form: 0
         Minimum Level: 48
         Maximum Level: 48
       Slot 4:
-        Species: SPECIES_AMOONGUSS
+        Species: SPECIES_FLETCHLING
         Form: 0
         Minimum Level: 49
         Maximum Level: 49
       Slot 5:
-        Species: SPECIES_GOLDUCK
+        Species: SPECIES_LITLEO
         Form: 0
         Minimum Level: 50
         Maximum Level: 50
       Slot 6:
-        Species: SPECIES_MIENFOO
+        Species: SPECIES_SKIDDO
         Form: 0
         Minimum Level: 48
         Maximum Level: 48
       Slot 7:
-        Species: SPECIES_THROH
+        Species: SPECIES_PANCHAM
         Form: 0
         Minimum Level: 49
         Maximum Level: 49
       Slot 8:
-        Species: SPECIES_RUFFLET
+        Species: SPECIES_ESPURR
         Form: 0
         Minimum Level: 47
         Maximum Level: 47
       Slot 9:
-        Species: SPECIES_BOUFFALANT
+        Species: SPECIES_HONEDGE
         Form: 0
         Minimum Level: 51
         Maximum Level: 51
       Slot 10:
-        Species: SPECIES_RUFFLET
+        Species: SPECIES_NOIBAT
         Form: 0
         Minimum Level: 47
         Maximum Level: 47
       Slot 11:
-        Species: SPECIES_BOUFFALANT
+        Species: SPECIES_SYLVEON
         Form: 0
         Minimum Level: 51
         Maximum Level: 51
     DOUBLES:
       Slot 0:
-        Species: SPECIES_BOUFFALANT
+        Species: SPECIES_CHESPIN
         Form: 0
         Minimum Level: 54
         Maximum Level: 54
       Slot 1:
-        Species: SPECIES_THROH
+        Species: SPECIES_FENNEKIN
         Form: 0
         Minimum Level: 53
         Maximum Level: 53
       Slot 2:
-        Species: SPECIES_GLIGAR
+        Species: SPECIES_FROAKIE
         Form: 0
         Minimum Level: 54
         Maximum Level: 54
       Slot 3:
-        Species: SPECIES_MIENSHAO
+        Species: SPECIES_BUNNELBY
         Form: 0
         Minimum Level: 53
         Maximum Level: 53
       Slot 4:
-        Species: SPECIES_AMOONGUSS
+        Species: SPECIES_FLETCHLING
         Form: 0
         Minimum Level: 54
         Maximum Level: 54
       Slot 5:
-        Species: SPECIES_GOLDUCK
+        Species: SPECIES_LITLEO
         Form: 0
         Minimum Level: 55
         Maximum Level: 55
       Slot 6:
-        Species: SPECIES_MIENSHAO
+        Species: SPECIES_SKIDDO
         Form: 0
         Minimum Level: 53
         Maximum Level: 53
       Slot 7:
-        Species: SPECIES_THROH
+        Species: SPECIES_PANCHAM
         Form: 0
         Minimum Level: 54
         Maximum Level: 54
       Slot 8:
-        Species: SPECIES_RUFFLET
+        Species: SPECIES_ESPURR
         Form: 0
         Minimum Level: 52
         Maximum Level: 52
       Slot 9:
-        Species: SPECIES_BOUFFALANT
+        Species: SPECIES_HONEDGE
         Form: 0
         Minimum Level: 56
         Maximum Level: 56
       Slot 10:
-        Species: SPECIES_RUFFLET
+        Species: SPECIES_NOIBAT
         Form: 0
         Minimum Level: 52
         Maximum Level: 52
       Slot 11:
-        Species: SPECIES_BOUFFALANT
+        Species: SPECIES_SYLVEON
         Form: 0
         Minimum Level: 56
         Maximum Level: 56
     SPECIAL:
       Slot 0:
-        Species: SPECIES_AUDINO
+        Species: SPECIES_CHESPIN
         Form: 0
         Minimum Level: 48
         Maximum Level: 48
       Slot 1:
-        Species: SPECIES_AUDINO
+        Species: SPECIES_FENNEKIN
         Form: 0
         Minimum Level: 48
         Maximum Level: 48
       Slot 2:
-        Species: SPECIES_EMOLGA
+        Species: SPECIES_FROAKIE
         Form: 0
         Minimum Level: 49
         Maximum Level: 49
       Slot 3:
-        Species: SPECIES_AUDINO
+        Species: SPECIES_BUNNELBY
         Form: 0
         Minimum Level: 49
         Maximum Level: 49
       Slot 4:
-        Species: SPECIES_AUDINO
+        Species: SPECIES_FLETCHLING
         Form: 0
         Minimum Level: 50
         Maximum Level: 50
       Slot 5:
-        Species: SPECIES_AUDINO
+        Species: SPECIES_LITLEO
         Form: 0
         Minimum Level: 50
         Maximum Level: 50
       Slot 6:
-        Species: SPECIES_AUDINO
+        Species: SPECIES_SKIDDO
         Form: 0
         Minimum Level: 51
         Maximum Level: 51
       Slot 7:
-        Species: SPECIES_AUDINO
+        Species: SPECIES_PANCHAM
         Form: 0
         Minimum Level: 51
         Maximum Level: 51
       Slot 8:
-        Species: SPECIES_GLISCOR
+        Species: SPECIES_ESPURR
         Form: 0
         Minimum Level: 51
         Maximum Level: 51
       Slot 9:
-        Species: SPECIES_SAWK
+        Species: SPECIES_HONEDGE
         Form: 0
         Minimum Level: 51
         Maximum Level: 51
       Slot 10:
-        Species: SPECIES_GLISCOR
+        Species: SPECIES_NOIBAT
         Form: 0
         Minimum Level: 51
         Maximum Level: 51
       Slot 11:
-        Species: SPECIES_SAWK
+        Species: SPECIES_SYLVEON
         Form: 0
         Minimum Level: 51
         Maximum Level: 51

@@ -10,62 +10,62 @@ ENCOUNTER_CONTAINER_0:
   GRASS:
     SINGLES:
       Slot 0:
-        Species: SPECIES_PATRAT
+        Species: SPECIES_CHESPIN
         Form: 0
         Minimum Level: 2
         Maximum Level: 2
       Slot 1:
-        Species: SPECIES_PURRLOIN
+        Species: SPECIES_FENNEKIN
         Form: 0
         Minimum Level: 2
         Maximum Level: 2
       Slot 2:
-        Species: SPECIES_PATRAT
+        Species: SPECIES_FROAKIE
         Form: 0
         Minimum Level: 3
         Maximum Level: 3
       Slot 3:
-        Species: SPECIES_PURRLOIN
+        Species: SPECIES_BUNNELBY
         Form: 0
         Minimum Level: 3
         Maximum Level: 3
       Slot 4:
-        Species: SPECIES_PATRAT
+        Species: SPECIES_FLETCHLING
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 5:
-        Species: SPECIES_PURRLOIN
+        Species: SPECIES_LITLEO
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 6:
-        Species: SPECIES_PATRAT
+        Species: SPECIES_SKIDDO
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 7:
-        Species: SPECIES_PURRLOIN
+        Species: SPECIES_PANCHAM
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 8:
-        Species: SPECIES_PATRAT
+        Species: SPECIES_ESPURR
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 9:
-        Species: SPECIES_PURRLOIN
+        Species: SPECIES_HONEDGE
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 10:
-        Species: SPECIES_PATRAT
+        Species: SPECIES_NOIBAT
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 11:
-        Species: SPECIES_PURRLOIN
+        Species: SPECIES_SYLVEON
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
@@ -132,62 +132,62 @@ ENCOUNTER_CONTAINER_0:
         Maximum Level: 0
     SPECIAL:
       Slot 0:
-        Species: SPECIES_PATRAT
+        Species: SPECIES_CHESPIN
         Form: 0
         Minimum Level: 2
         Maximum Level: 2
       Slot 1:
-        Species: SPECIES_PATRAT
+        Species: SPECIES_FENNEKIN
         Form: 0
         Minimum Level: 2
         Maximum Level: 2
       Slot 2:
-        Species: SPECIES_PATRAT
+        Species: SPECIES_FROAKIE
         Form: 0
         Minimum Level: 3
         Maximum Level: 3
       Slot 3:
-        Species: SPECIES_PATRAT
+        Species: SPECIES_BUNNELBY
         Form: 0
         Minimum Level: 3
         Maximum Level: 3
       Slot 4:
-        Species: SPECIES_PATRAT
+        Species: SPECIES_FLETCHLING
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 5:
-        Species: SPECIES_PATRAT
+        Species: SPECIES_LITLEO
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 6:
-        Species: SPECIES_PATRAT
+        Species: SPECIES_SKIDDO
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 7:
-        Species: SPECIES_PATRAT
+        Species: SPECIES_PANCHAM
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 8:
-        Species: SPECIES_PATRAT
+        Species: SPECIES_ESPURR
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 9:
-        Species: SPECIES_PATRAT
+        Species: SPECIES_HONEDGE
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 10:
-        Species: SPECIES_PATRAT
+        Species: SPECIES_NOIBAT
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 11:
-        Species: SPECIES_PATRAT
+        Species: SPECIES_SYLVEON
         Form: 0
         Minimum Level: 4
         Maximum Level: 4

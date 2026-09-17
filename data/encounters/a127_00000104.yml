@@ -10,62 +10,62 @@ ENCOUNTER_CONTAINER_0:
   GRASS:
     SINGLES:
       Slot 0:
-        Species: SPECIES_SANDILE
+        Species: SPECIES_CHESPIN
         Form: 0
         Minimum Level: 14
         Maximum Level: 14
       Slot 1:
-        Species: SPECIES_DARUMAKA
+        Species: SPECIES_FENNEKIN
         Form: 0
         Minimum Level: 14
         Maximum Level: 14
       Slot 2:
-        Species: SPECIES_SANDILE
+        Species: SPECIES_FROAKIE
         Form: 0
         Minimum Level: 15
         Maximum Level: 15
       Slot 3:
-        Species: SPECIES_DARUMAKA
+        Species: SPECIES_BUNNELBY
         Form: 0
         Minimum Level: 15
         Maximum Level: 15
       Slot 4:
-        Species: SPECIES_MINCCINO
+        Species: SPECIES_FLETCHLING
         Form: 0
         Minimum Level: 15
         Maximum Level: 15
       Slot 5:
-        Species: SPECIES_MINCCINO
+        Species: SPECIES_LITLEO
         Form: 0
         Minimum Level: 14
         Maximum Level: 14
       Slot 6:
-        Species: SPECIES_SCRAGGY
+        Species: SPECIES_SKIDDO
         Form: 0
         Minimum Level: 17
         Maximum Level: 17
       Slot 7:
-        Species: SPECIES_MINCCINO
+        Species: SPECIES_PANCHAM
         Form: 0
         Minimum Level: 17
         Maximum Level: 17
       Slot 8:
-        Species: SPECIES_SANDILE
+        Species: SPECIES_ESPURR
         Form: 0
         Minimum Level: 16
         Maximum Level: 16
       Slot 9:
-        Species: SPECIES_DARUMAKA
+        Species: SPECIES_HONEDGE
         Form: 0
         Minimum Level: 16
         Maximum Level: 16
       Slot 10:
-        Species: SPECIES_SANDILE
+        Species: SPECIES_NOIBAT
         Form: 0
         Minimum Level: 17
         Maximum Level: 17
       Slot 11:
-        Species: SPECIES_DARUMAKA
+        Species: SPECIES_SYLVEON
         Form: 0
         Minimum Level: 17
         Maximum Level: 17

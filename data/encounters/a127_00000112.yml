@@ -10,62 +10,62 @@ ENCOUNTER_CONTAINER_0:
   GRASS:
     SINGLES:
       Slot 0:
-        Species: SPECIES_LITWICK
+        Species: SPECIES_CHESPIN
         Form: 0
         Minimum Level: 27
         Maximum Level: 27
       Slot 1:
-        Species: SPECIES_LITWICK
+        Species: SPECIES_FENNEKIN
         Form: 0
         Minimum Level: 27
         Maximum Level: 27
       Slot 2:
-        Species: SPECIES_LITWICK
+        Species: SPECIES_FROAKIE
         Form: 0
         Minimum Level: 28
         Maximum Level: 28
       Slot 3:
-        Species: SPECIES_LITWICK
+        Species: SPECIES_BUNNELBY
         Form: 0
         Minimum Level: 28
         Maximum Level: 28
       Slot 4:
-        Species: SPECIES_LITWICK
+        Species: SPECIES_FLETCHLING
         Form: 0
         Minimum Level: 29
         Maximum Level: 29
       Slot 5:
-        Species: SPECIES_LITWICK
+        Species: SPECIES_LITLEO
         Form: 0
         Minimum Level: 29
         Maximum Level: 29
       Slot 6:
-        Species: SPECIES_LITWICK
+        Species: SPECIES_SKIDDO
         Form: 0
         Minimum Level: 30
         Maximum Level: 30
       Slot 7:
-        Species: SPECIES_LITWICK
+        Species: SPECIES_PANCHAM
         Form: 0
         Minimum Level: 30
         Maximum Level: 30
       Slot 8:
-        Species: SPECIES_LITWICK
+        Species: SPECIES_ESPURR
         Form: 0
         Minimum Level: 30
         Maximum Level: 30
       Slot 9:
-        Species: SPECIES_LITWICK
+        Species: SPECIES_HONEDGE
         Form: 0
         Minimum Level: 30
         Maximum Level: 30
       Slot 10:
-        Species: SPECIES_LITWICK
+        Species: SPECIES_NOIBAT
         Form: 0
         Minimum Level: 30
         Maximum Level: 30
       Slot 11:
-        Species: SPECIES_LITWICK
+        Species: SPECIES_SYLVEON
         Form: 0
         Minimum Level: 30
         Maximum Level: 30

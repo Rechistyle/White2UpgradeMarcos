@@ -10,184 +10,184 @@ ENCOUNTER_CONTAINER_0:
   GRASS:
     SINGLES:
       Slot 0:
-        Species: SPECIES_PIDOVE
+        Species: SPECIES_CHESPIN
         Form: 0
         Minimum Level: 2
         Maximum Level: 2
       Slot 1:
-        Species: SPECIES_SEWADDLE
+        Species: SPECIES_FENNEKIN
         Form: 0
         Minimum Level: 2
         Maximum Level: 2
       Slot 2:
-        Species: SPECIES_PATRAT
+        Species: SPECIES_FROAKIE
         Form: 0
         Minimum Level: 3
         Maximum Level: 3
       Slot 3:
-        Species: SPECIES_PURRLOIN
+        Species: SPECIES_BUNNELBY
         Form: 0
         Minimum Level: 3
         Maximum Level: 3
       Slot 4:
-        Species: SPECIES_PATRAT
+        Species: SPECIES_FLETCHLING
         Form: 0
         Minimum Level: 3
         Maximum Level: 3
       Slot 5:
-        Species: SPECIES_SEWADDLE
+        Species: SPECIES_LITLEO
         Form: 0
         Minimum Level: 3
         Maximum Level: 3
       Slot 6:
-        Species: SPECIES_PIDOVE
+        Species: SPECIES_SKIDDO
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 7:
-        Species: SPECIES_SEWADDLE
+        Species: SPECIES_PANCHAM
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 8:
-        Species: SPECIES_PURRLOIN
+        Species: SPECIES_ESPURR
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 9:
-        Species: SPECIES_SUNKERN
+        Species: SPECIES_HONEDGE
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 10:
-        Species: SPECIES_PURRLOIN
+        Species: SPECIES_NOIBAT
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 11:
-        Species: SPECIES_SUNKERN
+        Species: SPECIES_SYLVEON
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
     DOUBLES:
       Slot 0:
-        Species: SPECIES_PIDOVE
+        Species: SPECIES_CHESPIN
         Form: 0
         Minimum Level: 9
         Maximum Level: 9
       Slot 1:
-        Species: SPECIES_VENIPEDE
+        Species: SPECIES_FENNEKIN
         Form: 0
         Minimum Level: 10
         Maximum Level: 10
       Slot 2:
-        Species: SPECIES_PATRAT
+        Species: SPECIES_FROAKIE
         Form: 0
         Minimum Level: 10
         Maximum Level: 10
       Slot 3:
-        Species: SPECIES_PURRLOIN
+        Species: SPECIES_BUNNELBY
         Form: 0
         Minimum Level: 10
         Maximum Level: 10
       Slot 4:
-        Species: SPECIES_PATRAT
+        Species: SPECIES_FLETCHLING
         Form: 0
         Minimum Level: 10
         Maximum Level: 10
       Slot 5:
-        Species: SPECIES_SEWADDLE
+        Species: SPECIES_LITLEO
         Form: 0
         Minimum Level: 11
         Maximum Level: 11
       Slot 6:
-        Species: SPECIES_PIDOVE
+        Species: SPECIES_SKIDDO
         Form: 0
         Minimum Level: 10
         Maximum Level: 10
       Slot 7:
-        Species: SPECIES_SEWADDLE
+        Species: SPECIES_PANCHAM
         Form: 0
         Minimum Level: 10
         Maximum Level: 10
       Slot 8:
-        Species: SPECIES_PURRLOIN
+        Species: SPECIES_ESPURR
         Form: 0
         Minimum Level: 11
         Maximum Level: 11
       Slot 9:
-        Species: SPECIES_SUNKERN
+        Species: SPECIES_HONEDGE
         Form: 0
         Minimum Level: 11
         Maximum Level: 11
       Slot 10:
-        Species: SPECIES_PURRLOIN
+        Species: SPECIES_NOIBAT
         Form: 0
         Minimum Level: 11
         Maximum Level: 11
       Slot 11:
-        Species: SPECIES_SUNKERN
+        Species: SPECIES_SYLVEON
         Form: 0
         Minimum Level: 11
         Maximum Level: 11
     SPECIAL:
       Slot 0:
-        Species: SPECIES_AUDINO
+        Species: SPECIES_CHESPIN
         Form: 0
         Minimum Level: 2
         Maximum Level: 2
       Slot 1:
-        Species: SPECIES_AUDINO
+        Species: SPECIES_FENNEKIN
         Form: 0
         Minimum Level: 2
         Maximum Level: 2
       Slot 2:
-        Species: SPECIES_AUDINO
+        Species: SPECIES_FROAKIE
         Form: 0
         Minimum Level: 3
         Maximum Level: 3
       Slot 3:
-        Species: SPECIES_DUNSPARCE
+        Species: SPECIES_BUNNELBY
         Form: 0
         Minimum Level: 3
         Maximum Level: 3
       Slot 4:
-        Species: SPECIES_AUDINO
+        Species: SPECIES_FLETCHLING
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 5:
-        Species: SPECIES_AUDINO
+        Species: SPECIES_LITLEO
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 6:
-        Species: SPECIES_AUDINO
+        Species: SPECIES_SKIDDO
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 7:
-        Species: SPECIES_AUDINO
+        Species: SPECIES_PANCHAM
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 8:
-        Species: SPECIES_AUDINO
+        Species: SPECIES_ESPURR
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 9:
-        Species: SPECIES_AUDINO
+        Species: SPECIES_HONEDGE
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 10:
-        Species: SPECIES_AUDINO
+        Species: SPECIES_NOIBAT
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 11:
-        Species: SPECIES_AUDINO
+        Species: SPECIES_SYLVEON
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
@@ -309,184 +309,184 @@ ENCOUNTER_CONTAINER_1:
   GRASS:
     SINGLES:
       Slot 0:
-        Species: SPECIES_SUNKERN
+        Species: SPECIES_CHESPIN
         Form: 0
         Minimum Level: 2
         Maximum Level: 2
       Slot 1:
-        Species: SPECIES_SEWADDLE
+        Species: SPECIES_FENNEKIN
         Form: 0
         Minimum Level: 2
         Maximum Level: 2
       Slot 2:
-        Species: SPECIES_PATRAT
+        Species: SPECIES_FROAKIE
         Form: 0
         Minimum Level: 3
         Maximum Level: 3
       Slot 3:
-        Species: SPECIES_PURRLOIN
+        Species: SPECIES_BUNNELBY
         Form: 0
         Minimum Level: 3
         Maximum Level: 3
       Slot 4:
-        Species: SPECIES_PATRAT
+        Species: SPECIES_FLETCHLING
         Form: 0
         Minimum Level: 3
         Maximum Level: 3
       Slot 5:
-        Species: SPECIES_SEWADDLE
+        Species: SPECIES_LITLEO
         Form: 0
         Minimum Level: 3
         Maximum Level: 3
       Slot 6:
-        Species: SPECIES_PIDOVE
+        Species: SPECIES_SKIDDO
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 7:
-        Species: SPECIES_SEWADDLE
+        Species: SPECIES_PANCHAM
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 8:
-        Species: SPECIES_PURRLOIN
+        Species: SPECIES_ESPURR
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 9:
-        Species: SPECIES_SUNKERN
+        Species: SPECIES_HONEDGE
         Form: 0
         Minimum Level: 3
         Maximum Level: 3
       Slot 10:
-        Species: SPECIES_SUNKERN
+        Species: SPECIES_NOIBAT
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 11:
-        Species: SPECIES_SUNKERN
+        Species: SPECIES_SYLVEON
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
     DOUBLES:
       Slot 0:
-        Species: SPECIES_SUNKERN
+        Species: SPECIES_CHESPIN
         Form: 0
         Minimum Level: 9
         Maximum Level: 9
       Slot 1:
-        Species: SPECIES_VENIPEDE
+        Species: SPECIES_FENNEKIN
         Form: 0
         Minimum Level: 10
         Maximum Level: 10
       Slot 2:
-        Species: SPECIES_PATRAT
+        Species: SPECIES_FROAKIE
         Form: 0
         Minimum Level: 10
         Maximum Level: 10
       Slot 3:
-        Species: SPECIES_PURRLOIN
+        Species: SPECIES_BUNNELBY
         Form: 0
         Minimum Level: 10
         Maximum Level: 10
       Slot 4:
-        Species: SPECIES_PATRAT
+        Species: SPECIES_FLETCHLING
         Form: 0
         Minimum Level: 10
         Maximum Level: 10
       Slot 5:
-        Species: SPECIES_SEWADDLE
+        Species: SPECIES_LITLEO
         Form: 0
         Minimum Level: 11
         Maximum Level: 11
       Slot 6:
-        Species: SPECIES_PIDOVE
+        Species: SPECIES_SKIDDO
         Form: 0
         Minimum Level: 10
         Maximum Level: 10
       Slot 7:
-        Species: SPECIES_SEWADDLE
+        Species: SPECIES_PANCHAM
         Form: 0
         Minimum Level: 10
         Maximum Level: 10
       Slot 8:
-        Species: SPECIES_PURRLOIN
+        Species: SPECIES_ESPURR
         Form: 0
         Minimum Level: 11
         Maximum Level: 11
       Slot 9:
-        Species: SPECIES_SUNKERN
+        Species: SPECIES_HONEDGE
         Form: 0
         Minimum Level: 10
         Maximum Level: 10
       Slot 10:
-        Species: SPECIES_SUNKERN
+        Species: SPECIES_NOIBAT
         Form: 0
         Minimum Level: 11
         Maximum Level: 11
       Slot 11:
-        Species: SPECIES_SUNKERN
+        Species: SPECIES_SYLVEON
         Form: 0
         Minimum Level: 11
         Maximum Level: 11
     SPECIAL:
       Slot 0:
-        Species: SPECIES_AUDINO
+        Species: SPECIES_CHESPIN
         Form: 0
         Minimum Level: 2
         Maximum Level: 2
       Slot 1:
-        Species: SPECIES_AUDINO
+        Species: SPECIES_FENNEKIN
         Form: 0
         Minimum Level: 2
         Maximum Level: 2
       Slot 2:
-        Species: SPECIES_AUDINO
+        Species: SPECIES_FROAKIE
         Form: 0
         Minimum Level: 3
         Maximum Level: 3
       Slot 3:
-        Species: SPECIES_DUNSPARCE
+        Species: SPECIES_BUNNELBY
         Form: 0
         Minimum Level: 3
         Maximum Level: 3
       Slot 4:
-        Species: SPECIES_AUDINO
+        Species: SPECIES_FLETCHLING
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 5:
-        Species: SPECIES_AUDINO
+        Species: SPECIES_LITLEO
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 6:
-        Species: SPECIES_AUDINO
+        Species: SPECIES_SKIDDO
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 7:
-        Species: SPECIES_AUDINO
+        Species: SPECIES_PANCHAM
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 8:
-        Species: SPECIES_AUDINO
+        Species: SPECIES_ESPURR
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 9:
-        Species: SPECIES_AUDINO
+        Species: SPECIES_HONEDGE
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 10:
-        Species: SPECIES_AUDINO
+        Species: SPECIES_NOIBAT
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 11:
-        Species: SPECIES_AUDINO
+        Species: SPECIES_SYLVEON
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
@@ -608,184 +608,184 @@ ENCOUNTER_CONTAINER_2:
   GRASS:
     SINGLES:
       Slot 0:
-        Species: SPECIES_PIDOVE
+        Species: SPECIES_CHESPIN
         Form: 0
         Minimum Level: 2
         Maximum Level: 2
       Slot 1:
-        Species: SPECIES_SEWADDLE
+        Species: SPECIES_FENNEKIN
         Form: 0
         Minimum Level: 2
         Maximum Level: 2
       Slot 2:
-        Species: SPECIES_PATRAT
+        Species: SPECIES_FROAKIE
         Form: 0
         Minimum Level: 3
         Maximum Level: 3
       Slot 3:
-        Species: SPECIES_PURRLOIN
+        Species: SPECIES_BUNNELBY
         Form: 0
         Minimum Level: 3
         Maximum Level: 3
       Slot 4:
-        Species: SPECIES_PATRAT
+        Species: SPECIES_FLETCHLING
         Form: 0
         Minimum Level: 3
         Maximum Level: 3
       Slot 5:
-        Species: SPECIES_SEWADDLE
+        Species: SPECIES_LITLEO
         Form: 0
         Minimum Level: 3
         Maximum Level: 3
       Slot 6:
-        Species: SPECIES_PIDOVE
+        Species: SPECIES_SKIDDO
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 7:
-        Species: SPECIES_SEWADDLE
+        Species: SPECIES_PANCHAM
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 8:
-        Species: SPECIES_PURRLOIN
+        Species: SPECIES_ESPURR
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 9:
-        Species: SPECIES_SUNKERN
+        Species: SPECIES_HONEDGE
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 10:
-        Species: SPECIES_PURRLOIN
+        Species: SPECIES_NOIBAT
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 11:
-        Species: SPECIES_SUNKERN
+        Species: SPECIES_SYLVEON
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
     DOUBLES:
       Slot 0:
-        Species: SPECIES_PIDOVE
+        Species: SPECIES_CHESPIN
         Form: 0
         Minimum Level: 9
         Maximum Level: 9
       Slot 1:
-        Species: SPECIES_VENIPEDE
+        Species: SPECIES_FENNEKIN
         Form: 0
         Minimum Level: 10
         Maximum Level: 10
       Slot 2:
-        Species: SPECIES_PATRAT
+        Species: SPECIES_FROAKIE
         Form: 0
         Minimum Level: 10
         Maximum Level: 10
       Slot 3:
-        Species: SPECIES_PURRLOIN
+        Species: SPECIES_BUNNELBY
         Form: 0
         Minimum Level: 10
         Maximum Level: 10
       Slot 4:
-        Species: SPECIES_PATRAT
+        Species: SPECIES_FLETCHLING
         Form: 0
         Minimum Level: 10
         Maximum Level: 10
       Slot 5:
-        Species: SPECIES_SEWADDLE
+        Species: SPECIES_LITLEO
         Form: 0
         Minimum Level: 11
         Maximum Level: 11
       Slot 6:
-        Species: SPECIES_PIDOVE
+        Species: SPECIES_SKIDDO
         Form: 0
         Minimum Level: 10
         Maximum Level: 10
       Slot 7:
-        Species: SPECIES_SEWADDLE
+        Species: SPECIES_PANCHAM
         Form: 0
         Minimum Level: 10
         Maximum Level: 10
       Slot 8:
-        Species: SPECIES_PURRLOIN
+        Species: SPECIES_ESPURR
         Form: 0
         Minimum Level: 11
         Maximum Level: 11
       Slot 9:
-        Species: SPECIES_SUNKERN
+        Species: SPECIES_HONEDGE
         Form: 0
         Minimum Level: 11
         Maximum Level: 11
       Slot 10:
-        Species: SPECIES_PURRLOIN
+        Species: SPECIES_NOIBAT
         Form: 0
         Minimum Level: 11
         Maximum Level: 11
       Slot 11:
-        Species: SPECIES_SUNKERN
+        Species: SPECIES_SYLVEON
         Form: 0
         Minimum Level: 11
         Maximum Level: 11
     SPECIAL:
       Slot 0:
-        Species: SPECIES_AUDINO
+        Species: SPECIES_CHESPIN
         Form: 0
         Minimum Level: 2
         Maximum Level: 2
       Slot 1:
-        Species: SPECIES_AUDINO
+        Species: SPECIES_FENNEKIN
         Form: 0
         Minimum Level: 2
         Maximum Level: 2
       Slot 2:
-        Species: SPECIES_AUDINO
+        Species: SPECIES_FROAKIE
         Form: 0
         Minimum Level: 3
         Maximum Level: 3
       Slot 3:
-        Species: SPECIES_DUNSPARCE
+        Species: SPECIES_BUNNELBY
         Form: 0
         Minimum Level: 3
         Maximum Level: 3
       Slot 4:
-        Species: SPECIES_AUDINO
+        Species: SPECIES_FLETCHLING
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 5:
-        Species: SPECIES_AUDINO
+        Species: SPECIES_LITLEO
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 6:
-        Species: SPECIES_AUDINO
+        Species: SPECIES_SKIDDO
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 7:
-        Species: SPECIES_AUDINO
+        Species: SPECIES_PANCHAM
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 8:
-        Species: SPECIES_AUDINO
+        Species: SPECIES_ESPURR
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 9:
-        Species: SPECIES_AUDINO
+        Species: SPECIES_HONEDGE
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 10:
-        Species: SPECIES_AUDINO
+        Species: SPECIES_NOIBAT
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 11:
-        Species: SPECIES_AUDINO
+        Species: SPECIES_SYLVEON
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
@@ -907,184 +907,184 @@ ENCOUNTER_CONTAINER_3:
   GRASS:
     SINGLES:
       Slot 0:
-        Species: SPECIES_PIDOVE
+        Species: SPECIES_CHESPIN
         Form: 0
         Minimum Level: 2
         Maximum Level: 2
       Slot 1:
-        Species: SPECIES_SEWADDLE
+        Species: SPECIES_FENNEKIN
         Form: 0
         Minimum Level: 2
         Maximum Level: 2
       Slot 2:
-        Species: SPECIES_PATRAT
+        Species: SPECIES_FROAKIE
         Form: 0
         Minimum Level: 3
         Maximum Level: 3
       Slot 3:
-        Species: SPECIES_PURRLOIN
+        Species: SPECIES_BUNNELBY
         Form: 0
         Minimum Level: 3
         Maximum Level: 3
       Slot 4:
-        Species: SPECIES_PATRAT
+        Species: SPECIES_FLETCHLING
         Form: 0
         Minimum Level: 3
         Maximum Level: 3
       Slot 5:
-        Species: SPECIES_SEWADDLE
+        Species: SPECIES_LITLEO
         Form: 0
         Minimum Level: 3
         Maximum Level: 3
       Slot 6:
-        Species: SPECIES_PIDOVE
+        Species: SPECIES_SKIDDO
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 7:
-        Species: SPECIES_SEWADDLE
+        Species: SPECIES_PANCHAM
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 8:
-        Species: SPECIES_PURRLOIN
+        Species: SPECIES_ESPURR
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 9:
-        Species: SPECIES_SUNKERN
+        Species: SPECIES_HONEDGE
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 10:
-        Species: SPECIES_PURRLOIN
+        Species: SPECIES_NOIBAT
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 11:
-        Species: SPECIES_SUNKERN
+        Species: SPECIES_SYLVEON
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
     DOUBLES:
       Slot 0:
-        Species: SPECIES_PIDOVE
+        Species: SPECIES_CHESPIN
         Form: 0
         Minimum Level: 9
         Maximum Level: 9
       Slot 1:
-        Species: SPECIES_VENIPEDE
+        Species: SPECIES_FENNEKIN
         Form: 0
         Minimum Level: 10
         Maximum Level: 10
       Slot 2:
-        Species: SPECIES_PATRAT
+        Species: SPECIES_FROAKIE
         Form: 0
         Minimum Level: 10
         Maximum Level: 10
       Slot 3:
-        Species: SPECIES_PURRLOIN
+        Species: SPECIES_BUNNELBY
         Form: 0
         Minimum Level: 10
         Maximum Level: 10
       Slot 4:
-        Species: SPECIES_PATRAT
+        Species: SPECIES_FLETCHLING
         Form: 0
         Minimum Level: 10
         Maximum Level: 10
       Slot 5:
-        Species: SPECIES_SEWADDLE
+        Species: SPECIES_LITLEO
         Form: 0
         Minimum Level: 11
         Maximum Level: 11
       Slot 6:
-        Species: SPECIES_PIDOVE
+        Species: SPECIES_SKIDDO
         Form: 0
         Minimum Level: 10
         Maximum Level: 10
       Slot 7:
-        Species: SPECIES_SEWADDLE
+        Species: SPECIES_PANCHAM
         Form: 0
         Minimum Level: 10
         Maximum Level: 10
       Slot 8:
-        Species: SPECIES_PURRLOIN
+        Species: SPECIES_ESPURR
         Form: 0
         Minimum Level: 11
         Maximum Level: 11
       Slot 9:
-        Species: SPECIES_SUNKERN
+        Species: SPECIES_HONEDGE
         Form: 0
         Minimum Level: 11
         Maximum Level: 11
       Slot 10:
-        Species: SPECIES_PURRLOIN
+        Species: SPECIES_NOIBAT
         Form: 0
         Minimum Level: 11
         Maximum Level: 11
       Slot 11:
-        Species: SPECIES_SUNKERN
+        Species: SPECIES_SYLVEON
         Form: 0
         Minimum Level: 11
         Maximum Level: 11
     SPECIAL:
       Slot 0:
-        Species: SPECIES_AUDINO
+        Species: SPECIES_CHESPIN
         Form: 0
         Minimum Level: 2
         Maximum Level: 2
       Slot 1:
-        Species: SPECIES_AUDINO
+        Species: SPECIES_FENNEKIN
         Form: 0
         Minimum Level: 2
         Maximum Level: 2
       Slot 2:
-        Species: SPECIES_AUDINO
+        Species: SPECIES_FROAKIE
         Form: 0
         Minimum Level: 3
         Maximum Level: 3
       Slot 3:
-        Species: SPECIES_DUNSPARCE
+        Species: SPECIES_BUNNELBY
         Form: 0
         Minimum Level: 3
         Maximum Level: 3
       Slot 4:
-        Species: SPECIES_AUDINO
+        Species: SPECIES_FLETCHLING
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 5:
-        Species: SPECIES_AUDINO
+        Species: SPECIES_LITLEO
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 6:
-        Species: SPECIES_AUDINO
+        Species: SPECIES_SKIDDO
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 7:
-        Species: SPECIES_AUDINO
+        Species: SPECIES_PANCHAM
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 8:
-        Species: SPECIES_AUDINO
+        Species: SPECIES_ESPURR
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 9:
-        Species: SPECIES_AUDINO
+        Species: SPECIES_HONEDGE
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 10:
-        Species: SPECIES_AUDINO
+        Species: SPECIES_NOIBAT
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
       Slot 11:
-        Species: SPECIES_AUDINO
+        Species: SPECIES_SYLVEON
         Form: 0
         Minimum Level: 4
         Maximum Level: 4
